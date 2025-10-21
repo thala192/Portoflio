@@ -86,8 +86,7 @@ Developed a full-stack blog platform using Next.js, TypeScript, Tailwind CSS, Po
               <div className="project-links">
                 <a href="https://github.com/thala192/Ai-Chatbot-Assistant" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://ai-chatbot-t8fn.onrender.com" target="_blank" rel="noreferrer">
-                  <img src={externalLink} alt="Visit site" /></a>
+               
               </div>
             </header>
             <div className="body">
