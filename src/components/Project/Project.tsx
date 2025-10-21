@@ -86,7 +86,7 @@ Developed a full-stack blog platform using Next.js, TypeScript, Tailwind CSS, Po
               <div className="project-links">
                 <a href="https://github.com/thala192/Ai-Chatbot-Assistant" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-               
+
               </div>
             </header>
             <div className="body">
@@ -176,7 +176,7 @@ Developed a full-stack blog platform using Next.js, TypeScript, Tailwind CSS, Po
               </div>
             </header>
             <div className="body">
-              <h3>An intelligent online exam proctoring system </h3>
+              <h3>AI Proctoring System</h3>
               <p>
       Built an intelligent online exam platform using React (TypeScript) and Python (OpenCV). Implemented real-time face detection, gaze tracking, head pose estimation, and device detection to prevent cheating. Integrated computer vision and machine learning to ensure academic integrity during assessments. Designed a secure, modern UI for institutions to conduct reliable online exams with automated proctoring.
               </p>
