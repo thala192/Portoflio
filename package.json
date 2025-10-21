@@ -26,6 +26,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+     "vercel-build": "npm install --legacy-peer-deps && npm run build",
+  "dev": "react-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
